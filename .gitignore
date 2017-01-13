@@ -1,0 +1,5 @@
+vendor/*
+src/settings.php
+*.*~
+composer.lock
+composer.phar

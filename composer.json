@@ -1,0 +1,12 @@
+{
+    "require": {
+        "php": ">=5.6.0",
+        "slim/slim": "^3.1",
+        "slim/php-view": "^2.0",
+        "smalot/pdfparser": "*",
+        "elasticsearch/elasticsearch": "~1.0",
+        "php-opencloud/openstack": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
