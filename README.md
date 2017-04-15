@@ -19,7 +19,7 @@ To deploy this application to your Bluemix space:
 
  * Clone the repository to your local system.
  * Run `composer update` to install all dependencies.
- * Create `config.php` with credentials for the various services. Use `config.php.sample` as an example.
+ * Create `settings.php` with credentials for the various services. Use `settings.php.sample` as an example.
  * Create an empty index named `cvs` in your Searchly instance.
  * Create an empty container named `cvs` in your Object Storage instance.
  * Update `manifest.yml` with your custom hostname.
