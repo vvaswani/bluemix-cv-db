@@ -1,6 +1,6 @@
 {
     "WEB_SERVER": "httpd",
-    "PHP_EXTENSIONS": ["bz2", "zlib", "mysqli", "curl"],
+    "PHP_EXTENSIONS": ["bz2", "zlib", "mysqli", "curl", "fileinfo"],
     "COMPOSER_VENDOR_DIR": "vendor",
     "WEBDIR": "public",
     "PHP_VERSION": "{PHP_56_LATEST}"
